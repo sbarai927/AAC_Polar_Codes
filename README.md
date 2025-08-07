@@ -23,7 +23,7 @@ This repository AAC_Polar_Codes contains a Python-based implementation of polar 
 - BER/FER Performance Evaluation: Simulate the coding scheme over a range of E<sub>b</sub>/N<sub>0> values to measure bit error rate and frame error rate. Compare performance across various block lengths (e.g. 16, 32, 64, …, 512) and code rates (e.g. 0.25, 0.5, 0.75) to observe trends.
 - Visualization: Plot the BER/FER vs SNR curves (often on a log-scale for error rates) to illustrate the “waterfall” region where error probabilities drop sharply. These visualizations help in understanding the effect of increasing N or adding redundancy.
 
-This repository accompanies the **Advanced Channel Coding** course project **Simulation and performance analysis of polar codes using a Python implementation** (ACC 2025) lectured by **Prof. Dr. Uwe Dettmar** , **Technische Hochschule Koeln**. 
+This repository accompanies the **Advanced Channel Coding** course project **Simulation and performance analysis of polar codes using a Python implementation** (SS 2025) lectured by **Prof. Dr. Uwe Dettmar** , **Technische Hochschule Koeln**. 
 
 ## 1 · Quick-start (5 commands)
 
@@ -144,4 +144,5 @@ All required Python packages are pinned in requirements.txt; MATLAB is optional 
 For any questions or issues, please contact:
 - Manuel Wette, Lisa Schneider, Suvendu Barai
 - Email: manuel.wette@smail.th-koeln.de, lisa.schneider@smail.th-koeln.de, suvendu.barai@smail.th-koeln.de
+
 
